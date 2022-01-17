@@ -21,7 +21,7 @@ Utilizing p5.js image and sound library, create a physics based space ship with 
 
 Reference : [Coding Math: Episode 10 - Advanced Acceleration](https://youtu.be/4UPiT5lDYe8)
 
-Use this as a [starting point.](https://editor.p5js.org/Rudy.Castan/sketches/KVHZ8fZ3B)
+Use this as a [starting point.](https://editor.p5js.org/Rudy.Castan/full/KVHZ8fZ3B)
 
 ### Exercise Checklist
 

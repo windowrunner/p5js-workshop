@@ -34,4 +34,4 @@ Write a function to test if the ball and paddle collide and make the ball bounce
 
 ### Example
 
-Here is an example of a [paddle and ball.](https://editor.p5js.org/Rudy.Castan/sketches/wAT1EvSAU)
+Here is an example of a [paddle and ball.](https://editor.p5js.org/Rudy.Castan/full/wAT1EvSAU)

@@ -16,4 +16,4 @@ Use this function to draw many, many flowers so that it looks like a flower gard
 
 ### Example
 
-Here is an example [flower garden.](https://editor.p5js.org/Rudy.Castan/sketches/0BXdrpOAK)
+Here is an example [flower garden.](https://editor.p5js.org/Rudy.Castan/full/0BXdrpOAK)

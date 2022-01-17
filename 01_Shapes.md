@@ -49,6 +49,6 @@ Note: You don't have to use all of the drawing functions to represent the food. 
 
 ### Example
 
-Here is an example of [Rudy's Favorite Food](https://editor.p5js.org/Rudy.Castan/sketches/MeTjRR_Ym)
+Here is an example of [Rudy's Favorite Food](https://editor.p5js.org/Rudy.Castan/full/MeTjRR_Ym)
 
 

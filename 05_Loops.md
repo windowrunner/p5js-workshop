@@ -90,5 +90,5 @@ v   v   v   v   v   v   v   v   v   v   v   v
 
 ### Example
 
-Here is a [grid example.](https://editor.p5js.org/Rudy.Castan/sketches/3-d8N6T7C)
+Here is a [grid example.](https://editor.p5js.org/Rudy.Castan/full/3-d8N6T7C)
 

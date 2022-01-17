@@ -35,4 +35,4 @@ Reference : [Coding Math: Episode 8 - Velocity](https://youtu.be/IpN4NLDpWDY)
 
 ### Example
 
-[Example Velocity Particles!](https://editor.p5js.org/Rudy.Castan/sketches/vlStdNR45)
+[Example Velocity Particles!](https://editor.p5js.org/Rudy.Castan/full/vlStdNR45)

@@ -100,4 +100,4 @@ Etcetera
 
 ### Example
 
-Here is a simple [4 square example](https://editor.p5js.org/Rudy.Castan/sketches/uLcN2PDff) drawing simple shapes in each region.
+Here is a simple [4 square example](https://editor.p5js.org/Rudy.Castan/full/uLcN2PDff) drawing simple shapes in each region.

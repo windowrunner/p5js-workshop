@@ -49,4 +49,4 @@ Note: You don't have to use all of these functions to represent the dog. You may
 
 ### Example
 
-Checkout [Kirby](https://editor.p5js.org/Rudy.Castan/sketches/ym2bgkJSm)
+Checkout [Kirby](https://editor.p5js.org/Rudy.Castan/full/ym2bgkJSm)
