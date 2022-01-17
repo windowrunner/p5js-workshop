@@ -25,3 +25,11 @@ We will launch into the world of writing code through the process of programming
 9. [Image/Sound Media](09_Media.md)
 10. [Prepare to Make a Game](10_PrepGame.md)
 
+## Study References
+
+- [p5js Reference](https://p5js.org/reference/)
+- [Code! Programming with p5.js](https://youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+- [Coding Math](https://youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
